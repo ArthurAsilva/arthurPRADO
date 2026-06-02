@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🌧️ Tecnologias "caindo"
+  Aluno da etec MCM
 </p>
 
 <p align="center">
